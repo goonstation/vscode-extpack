@@ -1,0 +1,33 @@
+{
+	"name": "goonstation-extpack",
+	"displayName": "Goonstation Extension Pack",
+	"description": "Extensions for working with the Goonstation branch of Space Station 13",
+	"author": "ZeWaka",
+	"publisher": "Goonstation",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/goonstation/vscode-extpack"
+	},
+	"version": "1.0.0",
+	"icon": "goonstation_extensionpack.png",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"BYOND",
+		"DM",
+		"DreamMaker",
+		"Goonstation"
+	],
+	"extensionPack": [
+		"ss13.byond",
+		"coenraads.bracket-pair-colorizer-2",
+		"editorconfig.editorconfig",
+		"mhutchie.git-graph",
+		"usernamehw.errorlens"
+	]
+}
