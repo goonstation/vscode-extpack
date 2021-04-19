@@ -18,3 +18,5 @@ This extension pack is a collection of recommended extensions for working with t
   - Easy GUI git tool for performing tasks.
 - [📦 Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
   - Shows diagnostics by highlighting the entire line where the error occured.
+- [📦 ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - Linting and formatting for Javascript interfaces
