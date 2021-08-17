@@ -2,6 +2,10 @@
 
 All notable changes to the "goonstation extension pack" will be documented in this file.
 
+## [1.2.0]
+
+- Added Tgstation Test Explorer for running unit tests easier
+
 ## [1.1.0]
 
 - Added ESLint
