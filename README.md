@@ -9,9 +9,6 @@ This extension pack is a collection of recommended extensions for working with t
 	- Debugging
 	- Build System
 	- Reference Browser
-  - Linting and formatting for Javascript interfaces
-- [📦 Bracker Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-  - Paints matching brackets the same color, very useful for DM
 - [📦 EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   - Sets you up to use the standardized editor configuration for the codebase
 - [📦 Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)

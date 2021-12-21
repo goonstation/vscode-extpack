@@ -9,10 +9,10 @@
 		"type": "git",
 		"url": "https://github.com/goonstation/vscode-extpack"
 	},
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"icon": "goonstation_extensionpack.png",
 	"engines": {
-		"vscode": "^1.55.0"
+		"vscode": "^1.60.0"
 	},
 	"categories": [
 		"Extension Packs"
@@ -25,7 +25,6 @@
 	],
 	"extensionPack": [
 		"ss13.byond",
-		"coenraads.bracket-pair-colorizer-2",
 		"editorconfig.editorconfig",
 		"mhutchie.git-graph",
 		"usernamehw.errorlens",
