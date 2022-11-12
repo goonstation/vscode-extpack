@@ -1,6 +1,10 @@
 # Change Log
 
-All notable changes to the "goonstation extension pack" will be documented in this file.
+All notable changes to the "space station 13 extension pack" will be documented in this file.
+
+## [2.0.0]
+- Renamed to the Space Station 13 Extension Pack
+- Removed EditorConfig due to it being included in the BYOND pack now
 
 ## [1.3.0]
 
