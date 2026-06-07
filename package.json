@@ -29,6 +29,7 @@
 		"mhutchie.git-graph",
 		"usernamehw.errorlens",
 		"dbaeumer.vscode-eslint",
-		"ss13.vscode-tgstation13-test-adapter"
+		"ss13.vscode-tgstation13-test-adapter",
+		"esbenp.prettier-vscode"
 	]
 }
