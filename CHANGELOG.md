@@ -2,6 +2,9 @@
 
 All notable changes to the "space station 13 extension pack" will be documented in this file.
 
+## [2.2.0]
+- Added the SS13 Build Flags extension.
+
 ## [2.1.0]
 - Replaced the Donkie tgstation test explorer extension with a updated ss13 org version.
 

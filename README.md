@@ -18,3 +18,5 @@ As this is an opiniated collection, feel free to comment on the repository regar
 	- Linting and formatting for Javascript interfaces
 - [📦 tgstation/13/ Test Explorer](https://marketplace.visualstudio.com/items?itemName=ss13.vscode-tgstation13-test-adapter&ssr=false#overview)
 	- Easier running of unit tests defined in DM code
+- [📦 SS13 Build Flags](https://marketplace.visualstudio.com/items?itemName=ss13.ss13buildflags)
+  - Easier configuration of codebase build flags, like runtimestation.

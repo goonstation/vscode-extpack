@@ -9,10 +9,10 @@
 		"type": "git",
 		"url": "https://github.com/goonstation/vscode-extpack"
 	},
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"icon": "ss13_extensionpack.png",
 	"engines": {
-		"vscode": "^1.60.0"
+		"vscode": "^1.102.0"
 	},
 	"categories": [
 		"Extension Packs"
@@ -29,6 +29,7 @@
 		"mhutchie.git-graph",
 		"usernamehw.errorlens",
 		"dbaeumer.vscode-eslint",
-		"ss13.vscode-tgstation13-test-adapter"
+		"ss13.vscode-tgstation13-test-adapter",
+		"ss13.ss13buildflags"
 	]
 }
